@@ -1,0 +1,13 @@
+{
+"name":	 "RelaxMusicStation",
+"description":	 "リラックス環境で音楽が聞ける",
+"launch_path":	 "/index.html",
+"icons":	 {
+    "128":	 "/assets/img/logo.png"
+  },
+  "developer":	 {
+    "name":	 "dynamis",
+    "url":	 "/top.html"
+},
+  "default_locale":	 "ja"
+}

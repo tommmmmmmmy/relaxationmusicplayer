@@ -8,7 +8,7 @@ made at osawari FirefoxOS on 26 Jan, 2013
 * [@himamura](https://twitter.com/himamura)
 
 ##Presentation
-http://slideshare.......(underconstruction)
+http://www.slideshare.net/imaimamu/relaxation-music-player
 
 ##Blog
-http://......(underconstruction)
+http://imaimamu.wordpress.com/applications/relaxation-music-player/
